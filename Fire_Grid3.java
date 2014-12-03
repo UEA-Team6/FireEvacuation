@@ -31,15 +31,6 @@ public class Fire_grid3 extends java.applet.Applet {
     int human[]=new int[100];
     int maindoor = 9929;
     int obstcount,humancount;
-    
-    
-     
-     
-     
-     
-      
-     
-    
   /*  public  void proc()
     {
         for(int i=0;i<size;i++)
